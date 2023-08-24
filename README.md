@@ -1,6 +1,5 @@
 <h1 align="center">Hi there, I'm Ahmed Nasr  👋</h1>
 <h3 align="center">I am a Senior Computer Science Student at Ain Shams University</h3>
-### I am a Senior Computer Science Student at Ain Shams University
 
 # About Me
 ### I am a Flutter developer and UI/UX designer, and I have some experience in software testing, cyber security, and data science.
