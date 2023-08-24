@@ -1,4 +1,3 @@
-# Hi there, I'm Ahmed Nasr  👋
 <h1 align="center">Hi there, I'm Ahmed Nasr  👋</h1>
 
 ### I am a Senior Computer Science Student at Ain Shams University
