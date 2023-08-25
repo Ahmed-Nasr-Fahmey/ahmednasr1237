@@ -4,6 +4,9 @@
 # About Me
 ### I am a Flutter developer and UI/UX designer, and I have some experience in software testing, cyber security, and data science.
 
+## Views
+![Profile Views](https://komarev.com/ghpvc/?username=ahmednasr1237)
+
 # Skills
 - ![Dart Language](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 - ![OOP](https://img.shields.io/badge/OOP-239120?style=for-the-badge&logo=oop&logoColor=white)  ![Data Structures](https://img.shields.io/badge/Data%20Structures-007ACC?style=for-the-badge&logo=data%20structures&logoColor=white)  ![Algorithms](https://img.shields.io/badge/Algorithms-FF6C37?style=for-the-badge&logo=algorithms&logoColor=white) 
