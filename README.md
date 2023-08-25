@@ -15,13 +15,13 @@
 
 
 # Design Tools
+- ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
 - ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe%20xd&logoColor=white)
 - ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
-- ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
 
-# Network & Security
-- ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF9800?style=for-the-badge&logo=burp%20suite&logoColor=black) 
+# Network & Security Tools
 - ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+- ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF9800?style=for-the-badge&logo=burp%20suite&logoColor=black) 
 
 # Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-nasr-Fahmey/)
