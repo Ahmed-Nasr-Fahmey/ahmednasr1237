@@ -4,7 +4,7 @@
 # About Me
 ### I am a Flutter developer and UI/UX designer, and I have some experience in software testing, cyber security, and data science.
 
-## Skills
+# Skills
 - ![Dart Language](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
 - ![OOP](https://img.shields.io/badge/OOP-239120?style=for-the-badge&logo=oop&logoColor=white)  ![Data Structures](https://img.shields.io/badge/Data%20Structures-007ACC?style=for-the-badge&logo=data%20structures&logoColor=white)  ![Algorithms](https://img.shields.io/badge/Algorithms-FF6C37?style=for-the-badge&logo=algorithms&logoColor=white) 
 - ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
@@ -14,16 +14,16 @@
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
 
 
-## Design Tools
+# Design Tools
 - ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe%20xd&logoColor=white)
 - ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
 - ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
 
-## Network & Security
+# Network & Security
 - ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF9800?style=for-the-badge&logo=burp%20suite&logoColor=black) 
 - ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## Connect with Me
+# Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-nasr-Fahmey/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.nasr.fahmey@gmail.com)
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/ahmed-nasr-fahmey)
